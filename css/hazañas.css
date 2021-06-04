@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.title{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    font-size: 60px;
+    color: wheat;
+    text-align: center;
+}
+.hazañas{
+    height: 800px;
+
+}
+.hazañas{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.video2{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 200px;
+margin-left: 400px;
+
+}
+.columna70{
+    width: 68%;
+
+
+}
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    padding-left: 80px;
+    flex-direction: column;
+    margin-top: 200px;
+}
+
+.columna30{
+    width: 28%;
+}  

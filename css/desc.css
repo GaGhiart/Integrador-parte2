@@ -1,0 +1,44 @@
+.desc{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+}
+
+
+.seccion1{
+    height: 930px;
+}
+
+.descripciones{
+    display: flex;
+    flex-direction: row;
+    margin-top:90px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    align-items: center;
+}
+
+.img-a-desc1{
+    display: flex;
+    justify-content:flex-end;
+}
+
+
+.img-a-desc2{
+    display: flex;
+    justify-content:flex-start;
+}
+
+
+.descripciones li{
+    list-style: none;
+}
+ 
+.Z-index{
+    z-index: 10000;
+}
